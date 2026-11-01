@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 96" role="img" aria-label="Prestige Habitat, agence immobilière d'exception à Cannes">
+<g transform="translate(4,4) scale(0.172)">
+<g fill="none" stroke="#b08d3e" stroke-width="26" stroke-linecap="round">
+<path d="M96 432 V 232 A 160 160 0 0 1 416 232 V 432"/>
+<path d="M256 268 V 432"/>
+<circle cx="256" cy="200" r="52"/>
+<path d="M256 330 H 330"/>
+</g></g>
+<text x="116" y="48" font-family="Cinzel, 'Times New Roman', serif" font-size="34" letter-spacing="6" fill="#%02x%02x%02x">PRESTIGE HABITAT</text>
+<text x="118" y="74" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="21" fill="#6b6152">Cannes · Côte d'Azur</text>
+</svg>
